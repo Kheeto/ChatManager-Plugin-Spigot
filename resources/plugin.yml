@@ -8,7 +8,7 @@ permissions:
   cm.bypass.cooldown:
     description: Permission to bypass the chat cooldown
   cm.bypass.blacklist:
-    description: Permission to say a blacklisted in chat
+    description: Permission to say a blacklisted word in chat
   cm.reload:
     description: Permission needed to use the /cmreload command
 commands:
