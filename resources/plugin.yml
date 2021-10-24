@@ -7,7 +7,7 @@ description: A simple but useful plugin to manage the chat with cooldowns and bl
 permissions:
   cm.bypass.cooldown:
     description: Permission to bypass the chat cooldown
-  cm.bypass.blacklisted:
+  cm.bypass.blacklist:
     description: Permission to say a blacklisted in chat
   cm.reload:
     description: Permission needed to use the /cmreload command
