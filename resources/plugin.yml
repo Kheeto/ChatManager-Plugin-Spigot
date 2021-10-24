@@ -3,12 +3,12 @@ version: ${project.version}
 main: kheeto.chatmanager.ChatManager
 api-version: 1.16
 authors: [ Kheeto67 ]
-description: A simple but useful plugin to manage the chat with cooldowns and anti swear
+description: A simple but useful plugin to manage the chat with cooldowns and block some words
 permissions:
   cm.bypass.cooldown:
     description: Permission to bypass the chat cooldown
-  cm.bypass.blockedword:
-    description: Permission to say a blocked word in chat
+  cm.bypass.blacklisted:
+    description: Permission to say a blacklisted in chat
   cm.reload:
     description: Permission needed to use the /cmreload command
 commands:
