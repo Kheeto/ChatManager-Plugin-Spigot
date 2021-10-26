@@ -105,10 +105,4 @@ public final class ChatManager extends JavaPlugin implements Listener, CommandEx
 
 
     }
-
-    public ArrayList<String> onTabComplete(CommandSender sender, Command cmd, String label, String[] args) {
-
-        return null;
-
-    }
 }
