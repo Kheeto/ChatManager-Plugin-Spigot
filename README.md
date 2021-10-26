@@ -13,7 +13,7 @@ https://www.spigotmc.org/resources/chatmanager.89071/
 | ------------- |-------------|
 | cm.reload | Permission needed for the /cmreload command |
 | cm.bypass.cooldown | Bypasses the chat cooldown |
-| cm.bypass.blockedword | Allows a player to say a blocked word |
+| cm.bypass.blacklist | Allows a player to say a blocked word |
 
 ## Config
 ```
