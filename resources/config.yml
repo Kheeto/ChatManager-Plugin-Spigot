@@ -9,7 +9,7 @@ blacklistWords: true
 # Cooldown between messages
 # An user needs the cm.bypass.cooldown permission to bypas the cooldown
 Cooldown: 2
-# Words that an user without the cm.bypass.blockedwords permission cannot send in chat
+# Words that an user without the cm.bypass.blacklist permission cannot send in chat
 BlacklistedWords:
   - fuck
   - shit
